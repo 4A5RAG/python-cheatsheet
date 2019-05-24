@@ -2,7 +2,7 @@ from numpy import random
 import numpy as np
 import matplotlib.pyplot as plt
 
-N = 1000 #darts thrown
+N = 100000 #darts thrown
 
 circlex = []
 circley = []
